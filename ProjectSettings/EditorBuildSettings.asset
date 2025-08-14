@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 4b768491927c1bc478caaeff08f6efb3
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 84490a294f475944eaa41d1bccdb5ded
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 1e7bdaa211a85c745ac71d8e34dc8528
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3.unity
+    guid: d415856401f3930449599e13e5084d5b
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 294bb9d650c13d8438dccce0436c89e6
+  - enabled: 1
+    path: Assets/Scenes/Inicio2.unity
+    guid: 0f38cf47ae3f55c4cb6b1aba5e2bf4b1
+  - enabled: 1
+    path: Assets/Scenes/BreachBreaker.unity
+    guid: eb20d0f1f593fcb46b2e31c95d6dda44
+  - enabled: 1
+    path: Assets/Scenes/Ganar.unity
+    guid: b699a049a828dd24496d5cd561cce963
+  - enabled: 1
+    path: Assets/Scenes/Perder.unity
+    guid: 045ba499b8f0b314283b63b351b21511
+  - enabled: 1
+    path: Assets/Scenes/InicioSpace.unity
+    guid: aa16135fb272a7f49acbba1d5fb4afe5
+  - enabled: 1
+    path: Assets/Scenes/SpaceShooter.unity
+    guid: c34e547a578fcbe4e85e106ef8ee4cdc
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

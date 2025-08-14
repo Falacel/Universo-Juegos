@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Prueba2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|C:\\Users\\andre\\Prueba2D\\assets\\scripts\\spaceshooter\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spaceshooter\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|c:\\users\\andre\\prueba2d\\assets\\scripts\\spaceshooter\\finalboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spaceshooter\\finalboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|C:\\Users\\andre\\Prueba2D\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|C:\\Users\\andre\\Prueba2D\\assets\\scripts\\spaceshooter\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455335A8-DCDD-0E9A-755E-67C6978AA91B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spaceshooter\\alienship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalBoss.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\FinalBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpaceShooter\\FinalBoss.cs",
+              "ToolTip": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\FinalBoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpaceShooter\\FinalBoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:49:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:37:53.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlienShip.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\AlienShip.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpaceShooter\\AlienShip.cs",
+              "ToolTip": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\AlienShip.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpaceShooter\\AlienShip.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAxwFMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:51:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\UiController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpaceShooter\\UiController.cs",
+              "ToolTip": "C:\\Users\\andre\\Prueba2D\\Assets\\Scripts\\SpaceShooter\\UiController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpaceShooter\\UiController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:36:43.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
